@@ -24,5 +24,4 @@
  
  
 ## :pencil2: **참고링크**
-- [GPT Plugins 작동원리(전략그룹)_20230413.pdf](https://github.daumkakao.com/aiweek/AI-WEEK-03-Plugins/files/1624/GPT.Plugins._20230413.pdf)
 - [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E)
