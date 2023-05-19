@@ -6,7 +6,9 @@
 - 사본을 만들어 코드를 완성해주세요!
 
 ### OpenAI API 조별 실습용 키
-- 별도 안내
+- 1조 : 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
+- 2조 : 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
+- 3조 : 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
 
  <br>
 
