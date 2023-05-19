@@ -92,4 +92,5 @@
 - [OpenAI - Chat API Reference](https://platform.openai.com/docs/api-reference/chat)
 - [OpenAI - Chat completions](https://platform.openai.com/docs/guides/chat)
 - [프롬프트 모음: https://prompts.chat/](https://prompts.chat/)
+- https://beta.character.ai/
 
